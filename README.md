@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there Nice To See You Here 👋
+
 # ⚡ About Me
 
-- 🚀 **Web Developer & Programmer** - 🛠️ Currently building modern web applications.
+- 🚀 **Web Developer & Programmer**
 - 🎓 Constant learner in the ever-evolving world of tech.
 
 ---
@@ -28,17 +29,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NO-NEED-NAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NO-NEED-NAME_HERE&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
 <p align="left">
-<a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<a href="mailto:masoudashab396@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/NO_NAME_NEED"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a></p>
 <!--
 **NO-NEED-NAME/NO-NEED-NAME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
